@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 680">
+  <rect width="680" height="680" rx="148" fill="#1a2412"/>
+  <circle cx="340" cy="340" r="220" fill="none" stroke="#2a3d1c" stroke-width="28"/>
+  <circle cx="340" cy="340" r="192" fill="#1f2e14"/>
+  <circle cx="340" cy="340" r="188" fill="none" stroke="#d4924d" stroke-width="2" stroke-dasharray="6 8"/>
+  <ellipse cx="340" cy="340" rx="80" ry="130" fill="none" stroke="#4dbbb8" stroke-width="2.5"/>
+  <line x1="160" y1="340" x2="520" y2="340" stroke="#4dbbb8" stroke-width="2" opacity="0.4"/>
+  <line x1="340" y1="152" x2="340" y2="528" stroke="#4dbbb8" stroke-width="2" opacity="0.4"/>
+  <text x="340" y="378" text-anchor="middle" font-family="Arial Black,Impact,sans-serif" font-weight="900" font-size="168" fill="#d4924d" letter-spacing="-4" opacity="0.92">B</text>
+  <path d="M 270 195 Q 270 172 293 172 Q 316 172 316 195 Q 316 210 306 218 L 280 238" fill="none" stroke="#f0e8d8" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="278" cy="241" r="5" fill="#f0e8d8"/>
+  <line x1="280" y1="241" x2="260" y2="258" stroke="#f0e8d8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 258 260 Q 248 274 258 278 Q 268 282 272 272" fill="none" stroke="#f0e8d8" stroke-width="4.5" stroke-linecap="round"/>
+  <ellipse cx="450" cy="460" rx="42" ry="24" fill="none" stroke="#7ab648" stroke-width="4" transform="rotate(-38 450 460)"/>
+  <text x="340" y="588" text-anchor="middle" font-family="Arial Black,Impact,sans-serif" font-weight="900" font-size="34" fill="#d4924d" letter-spacing="8">BEAU'S SYSTEM</text>
+</svg>
